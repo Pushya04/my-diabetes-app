@@ -6,8 +6,7 @@ This is a simple and interactive **web application built using Streamlit** to pr
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the live app](https://your-username-your-repo-name.streamlit.app/)  
-*(Replace the above link with your real Streamlit Cloud app URL after deployment)*
+👉 [Click here to try the live app](https://my-diabetes-app-i5vvpdkkldhmrt9tnzygph.streamlit.app/)  
 
 ---
 
@@ -29,8 +28,6 @@ my-diabetes-app/
 ├── diabetes.csv           # Dataset used for training and testing
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # List of required Python packages
-└── .streamlit/
-    └── config.toml        # Optional: theme configuration for the app
 ```
 
 ---
