@@ -37,7 +37,7 @@ my-diabetes-app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/my-diabetes-app.git
+git clone https://github.com/Pushya04/my-diabetes-app.git
 cd my-diabetes-app
 ```
 
